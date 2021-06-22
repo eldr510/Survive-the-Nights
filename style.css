@@ -1,0 +1,209 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background: url("image/Group 1.1.png");
+    background-size: cover;
+}
+header .top__line{
+    display: flex;
+    justify-content: space-between;
+}
+header .top__line .left__logo img{
+    width: 55px;
+    height: 55px;
+    margin-top: 20px;
+}
+header .top__line .list__line ul{
+    list-style: none;
+    display: flex;
+}
+header .top__line .list__line ul li{
+    color: #ffffff;
+    font-size: 12px;
+    margin: 40px 20px 10px 20px;
+}
+header .top__line .last__top{
+    display: flex;
+}
+header .top__line .last__top p{
+    margin-top: 35px;
+    color: #FFFFFF;
+    font-size: 12px;
+    margin-right: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-right: 1px solid #FFFFFF;
+}
+header .top__line .last__top img{
+    margin-top: 35px;
+    margin-right: 10px;
+}
+header .survive{
+    text-align: center;
+}
+header .survive h1{
+    color: #FFFFFF;
+    font-size: 80px;
+    margin-top: 200px;
+}
+header .survive h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+header .survive span{
+    width: 100%;
+    height: 100%;
+    margin: 0 5px;
+    color: #000000;
+    border-right: 1px solid #000000;
+}
+header .survive button{
+    background: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+    color: #000000;
+    padding: 12px 14px;
+    font-size: 16px;
+    border: none;
+    margin-bottom: 250px;
+}
+header .survive button:hover{
+    font-size: 18px;
+    transition: 0.5s;
+}
+.what{
+    background: linear-gradient(180deg, #242B33 90%, rgba(36, 43, 51, 0) 90%, #242B33 90%);
+    background-size: cover;
+}
+.what .gallery{
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+}
+.what .gallery .text__gallery h2{
+    font-size: 80px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.what .gallery .text__gallery h4{
+    color: #FFFFFF;
+    font-size: 24px;
+    padding-bottom: 40px;
+}
+.what .gallery .text__gallery p{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    width: 590px;
+    padding-left: 210px;
+    padding-top: 50px;
+}
+.what .gallery .text__gallery span{
+    width: 70%;
+    color: #FFFFFF;
+    height: 4px;
+}
+.new__format{
+    background: linear-gradient(180deg, #242B33 90%, rgba(36, 43, 51, 0) 90%, #242B33 90%);
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.new__format .btn button{
+    padding: 15px 12px;
+    margin-top: 20px;
+    border: none;
+    background: #153e25;
+    color: #95cccf;
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+.new__format .btn button:hover{
+    transition: 0.3s;
+    color: #00a999;
+    font-size: 20px;
+}
+.last__time{
+    background: #080A0B;
+}
+.last__time .full{
+    display: flex;
+    align-items: center;
+    padding: 120px 0;
+}
+.last__time .full .after__cherep h4{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-left: 150px;
+}
+.last__time .full .after__cherep h2{
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 80px;
+    margin-left: 150px;
+    padding-bottom: 50px;
+}
+.last__time .full .after__cherep p{
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 650px;
+    margin-left: 152px;
+}
+.last__time .full .vindows{
+    margin-left: 150px;
+}
+.last__time .full .vindows button{
+    padding: 3px 18px;
+    font-size: 16px;
+    background: #D89D42;
+    border: none;
+    margin-left: 10px;
+}
+.last__time .bottom__line .left__logo img{
+    width: 55px;
+    height: 55px;
+    margin-top: 20px;
+}
+.last__time .bottom__line .list__line ul{
+    list-style: none;
+    display: flex;
+}
+.last__time .bottom__line .list__line ul li{
+    color: #ffffff;
+    font-size: 12px;
+    margin: 40px 20px 10px 20px;
+}
+.last__time .bottom__line{
+    display: flex;
+    justify-content: space-between;
+}
+.last__time .bottom__line .icons__line{
+    margin-top: 38px;
+}
+.last__time .bottom__line .icons__line a{
+    margin-right: 40px;
+}
+footer{
+    border-top: 0.87px solid #68645D ;
+    padding: 30px 0 20px 0;
+    background: #080A0B;
+}
+footer .ladno{
+    display: flex;
+    justify-content: space-between;
+}
+footer .ladno h6{
+    font-size: 14px;
+    opacity: 30%;
+    color: #FFFFFF;
+}
+footer .ladno p{
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+
+
+
+

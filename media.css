@@ -1,0 +1,104 @@
+@media (max-width: 1200px) {
+    .last__time .full .after__cherep p{
+        width: 500px;
+    }
+}
+@media (max-width:992px ) {
+    .last__time .full .after__cherep p{
+        margin-left: 0;
+    }
+    .last__time .full .vindows{
+        margin-left: 0;
+    }
+    .last__time .full .after__cherep h2{
+        margin-left: 0;
+    }
+    .last__time .full .after__cherep h4{
+        margin-left: 0;
+    }
+    .what .gallery .photo img{
+        width: 370px;
+    }
+}
+@media (max-width: 768px) {
+    header .top__line{
+        display: block;
+        text-align: center;
+    }
+    header .last__top{
+        margin-left: 250px;
+    }
+    .what .gallery .text__gallery h2{
+        font-size: 36px;
+    }
+    .what .gallery .text__gallery h4{
+        font-size: 18px;
+    }
+    .what .gallery .text__gallery p{
+        font-size: 12px;
+        padding-left: 40px;
+        width: 250px;
+    }
+    .last__time .full .cherep img{
+        width: 220px;
+    }
+    .last__time .full .after__cherep h2{
+        font-size: 40px;
+    }
+    .last__time .full .after__cherep h4{
+        font-size: 12px;
+    }
+    .last__time .full .after__cherep p{
+        width: 300px;
+        font-size: 11px;
+    }
+    .last__time .bottom__line{
+        display: block;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+}
+@media (max-width: 576px) {
+    .what .gallery{
+        display: block;
+        text-align: center;
+    }
+    .what .gallery .text__gallery p{
+    }
+    header .last__top{
+        margin-left: 180px;
+    }
+    .new__format iframe{
+        width: 310px;
+    }
+}
+@media (max-width: 320px) {
+    header .top__line .list__line ul li{
+        margin: 5px 5px 2px 5px;
+    }
+    header .last__top{
+        margin-left: 50px;
+    }
+    .last__time .bottom__line .list__line ul li{
+        margin: 5px 5px 2px 5px;
+    }
+    .new__format iframe{
+        width: 230px;
+    }
+    .last__time .full .cherep img{
+        width: 120px;
+    }
+    .last__time .full .after__cherep h2{
+        font-size: 18px;
+    }
+    .last__time .full .after__cherep h4{
+        font-size: 9px;
+    }
+    .last__time .full .after__cherep p{
+        width: 190px;
+        font-size: 6px;
+    }
+    .what .gallery .photo img{
+        width: 200px;
+    }
+}
