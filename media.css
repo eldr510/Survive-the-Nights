@@ -21,6 +21,9 @@
     }
 }
 @media (max-width: 768px) {
+    .last__time .vindows{
+        margin-left: 0;
+    }
     header .top__line{
         display: block;
         text-align: center;
@@ -73,6 +76,9 @@
     }
 }
 @media (max-width: 320px) {
+    .last__time .vindows{
+        margin-left: 0;
+    }
     header .top__line .list__line ul li{
         margin: 5px 5px 2px 5px;
     }
